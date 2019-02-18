@@ -1,0 +1,12 @@
+[alias]
+	last = log -1 HEAD
+	lg = log --graph --all --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+	d = difftool
+[user]
+	name = andes
+	email = wenta2006@gmail.com
+[diff]
+	tool = vimdiff
+[difftool]
+	prompt = false
+[http]

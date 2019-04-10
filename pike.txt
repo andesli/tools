@@ -1,0 +1,3 @@
+Advanced Go Concurrency Patterns
+Concurrency is not Parallelism
+Go Concurrency Patterns
